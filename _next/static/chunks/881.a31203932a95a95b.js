@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunk_N_E=self.webpackChunk_N_E||[]).push([[881],{8881:function(e){e.exports=JSON.parse('{"collection":"https://api.dc.library.northwestern.edu/api/v2/search?query=Joan+Baez&as=iiif&size=100&collectionLabel=Joan+Baez","metadata":["Genre","Subject"]}')}}]);
