@@ -1,0 +1,9 @@
+# *
+User-agent: *
+Allow: /
+
+# Host
+Host: https://mathewjordan.github.io/canopy-workshop-1024
+
+# Sitemaps
+Sitemap: https://mathewjordan.github.io/canopy-workshop-1024/sitemap.xml
